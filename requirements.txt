@@ -1,0 +1,6 @@
+torch
+streamlit
+matplotlib
+seaborn
+numpy
+transformers
